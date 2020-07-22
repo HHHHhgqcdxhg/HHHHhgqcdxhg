@@ -1,1 +1,1 @@
-<h2 style="color: yellow">❤️生者互爱❤️</h2>
+❤️$\color{#FF0000}{生者互爱}$❤️
