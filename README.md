@@ -1,1 +1,1 @@
-<center>❤️</center>
+<div align=center>❤️</div>
